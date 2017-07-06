@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-package com.dirtyunicorns.headers;
+package org.citrus.headers;
 
 import android.app.ActionBar;
 import android.app.Activity;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--  Copyright (C) 2016 The OmniROM Project
+<!--  Copyright (C) 2017 Citrus-CAF
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -20,10 +20,10 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <hour_header hour="6" image="staydirty_sunrise" />
-    <hour_header hour="9" image="staydirty_morning" />
-    <hour_header hour="11" image="staydirty_noon" />
-    <hour_header hour="13" image="staydirty_afternoon" />
-    <hour_header hour="19" image="staydirty_sunset" />
-    <hour_header hour="21" image="staydirty_night" />
+    <hour_header hour="6" image="citrus_sunrise" />
+    <hour_header hour="9" image="citrus_morning" />
+    <hour_header hour="11" image="citrus_noon" />
+    <hour_header hour="13" image="citrus_afternoon" />
+    <hour_header hour="19" image="citrus_evening" />
+    <hour_header hour="21" image="citrus_night" />
 </daylight_headers>
