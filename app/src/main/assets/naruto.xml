@@ -20,14 +20,15 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <hour_header hour="6" image="citrus_sunrise" />
-    <hour_header hour="9" image="citrus_morning" />
-    <hour_header hour="11" image="citrus_noon" />
-    <hour_header hour="13" image="citrus_afternoon" />
-    <hour_header hour="19" image="citrus_evening" />
-    <hour_header hour="21" image="citrus_night" />
+    <hour_header hour="6" image="naruto_sunrise" />
+    <hour_header hour="9" image="sasuke_morning" />
+    <hour_header hour="11" image="kakashi_noon" />
+    <hour_header hour="13" image="sakura_afternoon" />
+    <hour_header hour="19" image="gaara_evening" />
+    <hour_header hour="21" image="sasuke_night" />
 
     <!-- Special day headers -->
-    <day_header day="25" month="12" image="citrus_christmas" />
-    <day_header day="31" month="12" image="citrus_newyeareve" />
+    <day_header day="25" month="12" image="t7_christmas" />
+    <day_header day="31" month="12" image="naruto_sasuke_sakura_nye" />
+
 </daylight_headers>

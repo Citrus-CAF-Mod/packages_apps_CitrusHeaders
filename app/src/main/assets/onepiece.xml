@@ -20,14 +20,14 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <hour_header hour="6" image="citrus_sunrise" />
-    <hour_header hour="9" image="citrus_morning" />
-    <hour_header hour="11" image="citrus_noon" />
-    <hour_header hour="13" image="citrus_afternoon" />
-    <hour_header hour="19" image="citrus_evening" />
-    <hour_header hour="21" image="citrus_night" />
+    <hour_header hour="6" image="sunrise_onepiece" />
+    <hour_header hour="9" image="morning_onepiece" />
+    <hour_header hour="11" image="noon_onepiece" />
+    <hour_header hour="13" image="afternoon_onepiece" />
+    <hour_header hour="19" image="evening_onepiece" />
+    <hour_header hour="21" image="night_onepiece" />
 
     <!-- Special day headers -->
-    <day_header day="25" month="12" image="citrus_christmas" />
-    <day_header day="31" month="12" image="citrus_newyeareve" />
+    <day_header day="25" month="12" image="christmas_onepiece" />
+    <day_header day="31" month="12" image="newyeareve_onepiece" />
 </daylight_headers>

@@ -41,7 +41,34 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".citrus"
-            android:label="C!trus" >
+            android:label="Citrus" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".got"
+            android:label="GoT" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".naruto"
+            android:label="Naruto" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".onepiece"
+            android:label="Onepiece" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
