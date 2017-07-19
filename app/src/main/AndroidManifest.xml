@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     <application
         android:allowBackup="false"
-        android:label="DU Headers"
+        android:label="Citrus Headers"
         android:icon="@mipmap/ic_launcher" >
         <activity
             android:name="org.citrus.headers.BrowseHeaderActivity"
@@ -86,7 +86,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
         <activity
             android:name=".marvels"
-            android:label="Marvels" >
+            android:label="Marvel" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 

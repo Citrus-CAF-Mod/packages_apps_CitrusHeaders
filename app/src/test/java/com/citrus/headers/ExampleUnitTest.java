@@ -1,4 +1,4 @@
-package com.dirtyunicorns.headers;
+package com.citrus.headers;
 
 import org.junit.Test;
 
