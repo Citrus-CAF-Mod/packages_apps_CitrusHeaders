@@ -20,6 +20,7 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
+    <meta_data creator="rock_kellan" />
     <hour_header hour="6" image="kingwalker_sunrise" />
     <hour_header hour="9" image="khal_morning" />
     <hour_header hour="11" image="brandon_noon" />
